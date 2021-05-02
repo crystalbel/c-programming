@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 int vokal = 0;
 int proses(char x[20]);
 void toString(int v, int pal);
